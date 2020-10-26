@@ -1,0 +1,3 @@
+id;addr
+Senate;00170 Helsinki, Finland
+Museum;Mannerheimintie 34, 00100 Helsinki, Finland

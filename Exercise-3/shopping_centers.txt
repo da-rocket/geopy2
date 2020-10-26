@@ -1,0 +1,8 @@
+id;name;addr
+1000;Itis;Itäkatu 1, 00930 Helsinki, Finland
+1001;Forum;Mannerheimintie 20, 00100 Helsinki, Finland
+1002;Iso_omena;Piispansilta 11, 02230 Espoo, Finland
+1003;Sello;Leppävaarankatu 3, 02600 Espoo, Finland
+1004;Jumbo;Vantaanportinkatu 3, 01510 Vantaa, Finland
+1005;REDI;Hermannin rantatie 5, 00580 Helsinki, Finland
+1006;Tripla;00240 Helsinki, Finland
